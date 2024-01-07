@@ -1,6 +1,6 @@
 # Data generator microservice
 
-This application produces data and sends it to [Data consumer service] with Apache Kafka.
+This application produces data and sends it to [Data consumer service](https://github.com/VladMarmuz/data-analyzer-microservice) with Apache Kafka.
 
 ### Usage
 To start an application you need to pass variables to `.env` file.
